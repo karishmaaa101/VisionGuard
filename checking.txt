@@ -1,0 +1,1 @@
+Checking for the final summary and checkpoints before launching of the applciation.
